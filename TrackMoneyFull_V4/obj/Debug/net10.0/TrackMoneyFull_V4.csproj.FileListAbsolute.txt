@@ -1,0 +1,14 @@
+C:\Users\mohan\source\repos\TrackMoneyFull_V4\TrackMoneyFull_V4\bin\Debug\net10.0\TrackMoneyFull_V4.exe
+C:\Users\mohan\source\repos\TrackMoneyFull_V4\TrackMoneyFull_V4\bin\Debug\net10.0\TrackMoneyFull_V4.deps.json
+C:\Users\mohan\source\repos\TrackMoneyFull_V4\TrackMoneyFull_V4\bin\Debug\net10.0\TrackMoneyFull_V4.runtimeconfig.json
+C:\Users\mohan\source\repos\TrackMoneyFull_V4\TrackMoneyFull_V4\bin\Debug\net10.0\TrackMoneyFull_V4.dll
+C:\Users\mohan\source\repos\TrackMoneyFull_V4\TrackMoneyFull_V4\bin\Debug\net10.0\TrackMoneyFull_V4.pdb
+C:\Users\mohan\source\repos\TrackMoneyFull_V4\TrackMoneyFull_V4\obj\Debug\net10.0\TrackMoneyFull_V4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohan\source\repos\TrackMoneyFull_V4\TrackMoneyFull_V4\obj\Debug\net10.0\TrackMoneyFull_V4.AssemblyInfoInputs.cache
+C:\Users\mohan\source\repos\TrackMoneyFull_V4\TrackMoneyFull_V4\obj\Debug\net10.0\TrackMoneyFull_V4.AssemblyInfo.cs
+C:\Users\mohan\source\repos\TrackMoneyFull_V4\TrackMoneyFull_V4\obj\Debug\net10.0\TrackMoneyFull_V4.csproj.CoreCompileInputs.cache
+C:\Users\mohan\source\repos\TrackMoneyFull_V4\TrackMoneyFull_V4\obj\Debug\net10.0\TrackMoneyFull_V4.dll
+C:\Users\mohan\source\repos\TrackMoneyFull_V4\TrackMoneyFull_V4\obj\Debug\net10.0\refint\TrackMoneyFull_V4.dll
+C:\Users\mohan\source\repos\TrackMoneyFull_V4\TrackMoneyFull_V4\obj\Debug\net10.0\TrackMoneyFull_V4.pdb
+C:\Users\mohan\source\repos\TrackMoneyFull_V4\TrackMoneyFull_V4\obj\Debug\net10.0\TrackMoneyFull_V4.genruntimeconfig.cache
+C:\Users\mohan\source\repos\TrackMoneyFull_V4\TrackMoneyFull_V4\obj\Debug\net10.0\ref\TrackMoneyFull_V4.dll

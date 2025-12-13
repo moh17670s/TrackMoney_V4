@@ -1,0 +1,16 @@
+[
+  {
+    "Title": "full gaz",
+    "Amount": 1200,
+    "Month": 12,
+    "IsExpense": true,
+    "Category": "car needs"
+  },
+  {
+    "Title": "wege",
+    "Amount": 35000,
+    "Month": 12,
+    "IsExpense": false,
+    "Category": "salery"
+  }
+]
